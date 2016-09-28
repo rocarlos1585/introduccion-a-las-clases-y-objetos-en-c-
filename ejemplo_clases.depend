@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475097845 source:/home/robert/Documents/ejemplos de libro de c++/ejemplo_clases/main.cpp
+	<iostream>
+	<string>
+
